@@ -8,3 +8,12 @@
 .btn-limpar{
     background-color: #ffc008;
 }
+#nome{
+    width: 80%;
+}
+#email{
+    width: 60%;
+}
+#senha{
+    width: 60%;
+}
